@@ -1,1 +1,0 @@
-The full corpus of the Kommersant Telegram posts (1.07.2023 -31.07.2023) and the research subcorpus (research groups' agreement >.70) with the marked implicature types and the identified language means of implicature creation # Kommersant-Corpus
